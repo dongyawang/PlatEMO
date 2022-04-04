@@ -1,1 +1,1 @@
-% notes on this platform
+% notes on the extensions
